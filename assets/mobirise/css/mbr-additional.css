@@ -1373,10 +1373,10 @@ body {
   display: none;
 }
 .cid-qRxfuV4C3H {
-  background-color: #cebfaf;
+  background-color: #232323;
 }
 .cid-qRxixYqBL4 {
-  background-color: #ffffff;
+  background-image: url("../../../assets/images/watery-grave-by-julesmartinvos-dc5pyy0-1600x1156.jpg");
 }
 .cid-qRxixYqBL4 h1 {
   color: #616161;
@@ -1389,10 +1389,21 @@ body {
 .cid-qRxixYqBL4 .mbr-section-subtitle {
   font-style: italic;
 }
+.cid-qRxixYqBL4 H1 {
+  color: #073b4c;
+}
+.cid-qS9Rsfj8rm {
+  padding-top: 60px;
+  padding-bottom: 60px;
+  background-color: #073b4c;
+}
+.cid-qS9Rsfj8rm .mbr-text {
+  color: #767676;
+}
 .cid-qRxiXuJv5y {
   padding-top: 90px;
   padding-bottom: 90px;
-  background-color: #cebfaf;
+  background-color: #232323;
 }
 .cid-qRxiXuJv5y .mbr-slider .carousel-control {
   background: #1b1b1b;
